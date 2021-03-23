@@ -1,0 +1,1 @@
+<?php die('<META HTTP-equiv="refresh" content=0;URL=/article?id='. $_GET['id'] .'>'); ?>

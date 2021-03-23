@@ -1,0 +1,89 @@
+.featured .hgroup {
+position: absolute;
+left: 0;
+right: 0;
+bottom: 0;
+}
+.hgroup {
+right: 0;
+}
+.featured .hgroup p.title {
+color: #fff;
+margin: 0 10px 5px;
+}
+.featured .hgroup p {
+margin: 10px 10px 0;
+}
+.hgroup p.title {
+color: #454545;
+font-size: 18px;
+line-height: 21px;
+margin-top: 0;
+}
+.hgroup p {
+color: #edaf01;
+text-transform: uppercase;
+font-size: 13px;
+line-height: 13px;
+}
+h2, p.title {
+color: #454545;
+font-size: 18px;
+line-height: 21px;
+}
+h1, h2, h3, h4, h5, h6, .hgroup p, .loadmore, .loadmorelink, .navbar, .btn-action, .rating p, #gamestats .count, p.title, p.titleh1 {
+margin: 0;
+font-family: "OpenSansCondensedBold","Helvetica Neue",Helvetica,Arial,sans-serif;
+font-weight: 400!important;
+color: inherit;
+text-transform: uppercase;
+text-rendering: optimizelegibility;
+}
+.featured .large .hgroup p, .featured .big .hgroup p, .featured .huge .hgroup p {
+font-size: 18px;
+margin-bottom: 6px;
+}
+.featured .hgroup p {
+margin: 10px 10px 0;
+}
+.hgroup p {
+color: #edaf01;
+text-transform: uppercase;
+font-size: 13px;
+line-height: 13px;
+}
+h1, h2, h3, h4, h5, h6, .hgroup p, .loadmore, .loadmorelink, .navbar, .btn-action, .rating p, #gamestats .count, p.title, p.titleh1 {
+margin: 0;
+font-family: "OpenSansCondensedBold","Helvetica Neue",Helvetica,Arial,sans-serif;
+font-weight: 400!important;
+color: inherit;
+text-transform: uppercase;
+text-rendering: optimizelegibility;
+}
+.thumbnail .hgroup {
+position: absolute;
+left: 0;
+bottom: 0;
+background-color: rgba(0,0,0,.6);
+background-image: url("/i/hgroup-bg.png");
+background-repeat: repeat;
+background-position: center center;
+-webkit-transition: background-color .15s linear;
+-moz-transition: background-color .15s linear;
+-ms-transition: background-color .15s linear;
+-o-transition: background-color .15s linear;
+transition: background-color .15s linear;
+-webkit-box-shadow: 0 1px 0 rgba(255,255,255,.15) inset;
+-moz-box-shadow: 0 1px 0 rgba(255,255,255,.15) inset;
+box-shadow: 0 1px 0 rgba(255,255,255,.15) inset;
+text-shadow: 0 -1px 0 rgba(0,0,0,.45);
+}
+.featured .hgroup {
+position: absolute;
+left: 0;
+right: 0;
+bottom: 0;
+}
+.hgroup {
+right: 0;
+}
